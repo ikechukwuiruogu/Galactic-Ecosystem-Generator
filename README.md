@@ -3,7 +3,6 @@
 A sophisticated platform that simulates and generates unique alien ecosystems using quantum-inspired algorithms and exoplanet data. The system leverages smart contracts and NFTs to create, manage, and trade complex biological simulations across virtual planetary environments.
 
 ## Core Features
-
 ### Exoplanet Environment Generation
 - Dynamic planetary condition simulation based on real exoplanet data
 - Atmospheric composition and climate modeling
