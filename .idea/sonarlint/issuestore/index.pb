@@ -9,3 +9,5 @@ P
  contracts/alien-species-nft.clar,2/5/25300d12d40069c524150b388ad982c3ce09aaef
 O
 tests/alien-species-nft.test.ts,6/d/6d7a599675c72e9c083c08afa97239b6b0dd6316
+S
+#contracts/ecosystem-simulation.clar,1/a/1a99da1d97b49fc73a165e58d1a2cdeba5609252

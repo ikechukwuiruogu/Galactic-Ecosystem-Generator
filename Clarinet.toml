@@ -10,6 +10,11 @@ path = 'contracts/alien-species-nft.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.ecosystem-simulation]
+path = 'contracts/ecosystem-simulation.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.quantum-evolution]
 path = 'contracts/quantum-evolution.clar'
 clarity_version = 2
