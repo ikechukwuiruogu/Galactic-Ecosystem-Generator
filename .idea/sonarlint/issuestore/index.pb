@@ -11,3 +11,5 @@ O
 tests/alien-species-nft.test.ts,6/d/6d7a599675c72e9c083c08afa97239b6b0dd6316
 S
 #contracts/ecosystem-simulation.clar,1/a/1a99da1d97b49fc73a165e58d1a2cdeba5609252
+R
+"tests/ecosystem-simulation.test.ts,0/f/0facfa41df6396cc8fe4329070effe8c01fd8dd5
