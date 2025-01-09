@@ -7,3 +7,5 @@ O
 tests/quantum-evolution.test.ts,7/9/798ce3f4e8f39a9d90d942a8a2473e39b69e67ab
 P
  contracts/alien-species-nft.clar,2/5/25300d12d40069c524150b388ad982c3ce09aaef
+O
+tests/alien-species-nft.test.ts,6/d/6d7a599675c72e9c083c08afa97239b6b0dd6316
