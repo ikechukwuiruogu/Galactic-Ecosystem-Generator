@@ -23,6 +23,7 @@
     (
       (simulation-id (+ (var-get simulation-count) u1))
     )
+    (asserts! (is-eq tx-sender CONTRACT_OWNER) ERR_NOT_AUTHORIZED)
     (map-set simulations
       simulation-id
       {
@@ -31,7 +32,7 @@
         start-time: block-height,
         duration: duration,
         status: "in-progress",
-        result: ""
+        result: u""
       }
     )
     (var-set simulation-count simulation-id)
@@ -62,3 +63,4 @@
 (define-read-only (get-simulation-count)
   (var-get simulation-count)
 )
+

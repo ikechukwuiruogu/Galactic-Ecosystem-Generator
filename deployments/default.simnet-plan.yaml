@@ -55,6 +55,11 @@ plan:
             path: contracts/alien-species-nft.clar
             clarity-version: 2
         - emulated-contract-publish:
+            contract-name: ecosystem-simulation
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/ecosystem-simulation.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: quantum-evolution
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/quantum-evolution.clar
