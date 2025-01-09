@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.alien-species-nft]
+path = 'contracts/alien-species-nft.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.quantum-evolution]
 path = 'contracts/quantum-evolution.clar'
 clarity_version = 2
